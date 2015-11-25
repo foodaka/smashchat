@@ -117,8 +117,8 @@ body {
   font-weight: 900;
   padding: 0 1rem;
   color: #ffffff;
-  background: #3e313c;
-  border-bottom: 2px solid #372c36;
+  background: #7f7fff;
+  border-bottom: 2px solid #ffff7f;
   float: left;
   cursor: pointer;
 }
@@ -151,7 +151,7 @@ body {
   width: 220px;
   float: left;
   color: #ab9ba9;
-  background-color: #4d394b;
+  background-color: #7f7fff;
   overflow-y: auto;
   overflow-x: hidden;
 }
@@ -178,7 +178,7 @@ body {
   margin: 0 1rem .1rem;
   text-transform: uppercase;
   font-weight: 700;
-  color: #ab9ba9;
+  color: white;
   width: 165px;
   position: relative;
 }
@@ -224,7 +224,7 @@ body {
 
 /* line 51, ../tests/sass/components/_listings.scss */
 .channel.active {
-  background: #4c9689;
+  background: #ffff7f;
 }
 
 /* line 55, ../tests/sass/components/_listings.scss */

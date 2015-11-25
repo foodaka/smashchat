@@ -65,3 +65,7 @@ Template.messages.onCreated(function() {
     self.subscribe('messages', Session.get('channel'));
   });
 });
+
+Template.registerHelper('currentChannel', function () {
+    return Session.get('channel');
+});
