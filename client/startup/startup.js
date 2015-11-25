@@ -7,3 +7,4 @@ Template.messages.onCreated(function() {
     self.subscribe('messages', Session.get('channel'));
   });
 });
+

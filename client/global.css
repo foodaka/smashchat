@@ -134,6 +134,10 @@ body {
   cursor: pointer;
 }
 
+.channel_name {
+  text-decoration: none;
+  color: inherit;
+}
 /* line 29, ../tests/sass/components/_header.scss */
 .channel-menu_prefix {
   color: #9e9ea6;
