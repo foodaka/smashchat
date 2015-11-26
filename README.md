@@ -6,9 +6,9 @@ make sure you have meteor installed
 
 ```$ curl https://install.meteor.com/ | sh```
 
-cd into the project 
+cd into the project, run from command line
 
-```meteor```
+`meteor`
 
 open browser and head over to localhost:3000
 
