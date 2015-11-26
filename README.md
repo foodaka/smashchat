@@ -1,7 +1,8 @@
 # smashchat
 
 make sure you have meteor installed
- #h2 Installation
+
+## Installation
 
 ```$ curl https://install.meteor.com/ | sh```
 
